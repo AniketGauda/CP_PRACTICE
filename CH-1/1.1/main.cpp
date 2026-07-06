@@ -46,5 +46,10 @@ int main() {
     // MAIN CODE
     int age = 25;
     cout << "My age is: " << age << "\n";
+
+    int side_1 = 17, side_2 = 23, side_3 = 12;
+    int perimeter = side_1 + side_2 + side_3;
+    cout << "Perimeter of triangle is: " << perimeter << "\n";
+
     return 1;
 }

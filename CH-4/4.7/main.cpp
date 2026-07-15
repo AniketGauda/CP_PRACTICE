@@ -6,6 +6,12 @@
 using namespace std;
 
 int main() {
+    // CP BOILERPLATE
+    ios_base :: sync_with_stdio(false);
+    cin.tie(NULL);
+
+    // MAIN CODE
+
     // string to number
     string numStr = "9849085";
     int n = stoi(numStr);

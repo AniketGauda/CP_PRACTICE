@@ -6,7 +6,11 @@
 using namespace std;
 
 int main() {
+    // CP BOILERPLATE
+    ios_base :: sync_with_stdio(false);
+    cin.tie(NULL);
 
+    // MAIN CODE
     string s = "Mahabharat Katha";
 
     // Method 1) Index Loop.
